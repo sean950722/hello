@@ -10,4 +10,5 @@
 - [終極密碼加剪刀石頭布](剪刀石頭布加終極密碼.ipynb)
 - [EX01-05Caesar Cipher:encode and decode](EX01_05.ipynb)
 - [EX01-06簡易購物車](EX01_06簡易購物車.ipynb)
+- [EX01-07美食資訊查詢]
 ## 02 Web Crawler
