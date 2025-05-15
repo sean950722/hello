@@ -18,7 +18,7 @@
 - [EX02-04 Download Pokemon Images](EX02_04Doenload_Pokemon_Images.ipynb)
 - [EX02-05 PTT Gossiping](EX02_05.ipynb)
 - [EX02-06 開眼電影](EX02_06.ipynb)
-- [EX02-07 KKDay]
+- [EX02-07 KKDay](EX02_07.ipynb)
 ## 03 Data Analysis
 -[EX03-01 公司薪資概況Ⅰ]
 -[EX03-01 公司薪資概況II]
