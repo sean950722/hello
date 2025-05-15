@@ -14,7 +14,7 @@
 ## 02 Web Crawler
 - [EX02-01 My Chatbot](EX02_01MyChatbot.ipynb)
 - [EX02-02高雄捷運位置查詢](EX02_02捷運車站位置查詢.ipynb)
-- [EX02-03Yahoo新聞儲存Google試算表]()
+- [EX02-03Yahoo新聞儲存Google試算表](Ex02_03Yahoo新聞儲存Google試算表.ipynb)
 - [EX02-04 Download Pokemon Images]
 - [EX02-05 PTT Gossiping]
 - [EX02-06 開眼電影]
