@@ -17,7 +17,7 @@
 - [EX02-03Yahoo新聞儲存Google試算表](Ex02_03Yahoo新聞儲存Google試算表.ipynb)
 - [EX02-04 Download Pokemon Images](EX02_04Doenload_Pokemon_Images.ipynb)
 - [EX02-05 PTT Gossiping]
-- [EX02-06 開眼電影]
+- [EX02-06 開眼電影](EX02_06.ipynb)
 - [EX02-07 KKDay]
 ## 03 Data Analysis
 -[EX03-01 公司薪資概況Ⅰ]
