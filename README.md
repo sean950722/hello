@@ -14,3 +14,17 @@
 ## 02 Web Crawler
 - [EX02-01 My Chatbot](EX02_01MyChatbot.ipynb)
 - [EX02-02高雄捷運位置查詢](EX02_02捷運車站位置查詢.ipynb)
+- [EX02-03Yahoo新聞儲存Google試算表]()
+- [EX02-04 Download Pokemon Images]
+- [EX02-05 PTT Gossiping]
+- [EX02-06 開眼電影]
+- [EX02-07 KKDay]
+## 03 Data Analysis
+-[EX03-01 公司薪資概況Ⅰ]
+-[EX03-01 公司薪資概況II]
+-[EX03-03 空氣品質指標(AQI)]
+-[EX03-04 薪情平台]
+-[EX03-05 台灣股票市場個股每日成交資訊]
+-[EX03-06 出生人口數]
+-[EX03-07 Tips]
+
