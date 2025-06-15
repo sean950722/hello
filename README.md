@@ -21,15 +21,22 @@
 - [EX02-07 KKDay](EX02_07.ipynb)
 ## 03 Data Analysis
 - [EX03-01 公司薪資概況Ⅰ](EX03_01.ipynb)
-- [EX03-01 公司薪資概況II](EX03_02.ipynb)
+- [EX03-02 公司薪資概況II](EX03_02.ipynb)
 - [EX03-03 空氣品質指標(AQI)](「EX03_03_ipynb」的副本.ipynb)
 - [EX03-04 薪情平台](EX03_04.ipynb)
 - [EX03-05 台灣股票市場個股每日成交資訊](EX03_05.ipynb)
 - [EX03-06 出生人口數](EX03_06.ipynb)
 - [EX03-07 Tips](EX03_07.ipynb)
+## 04 Machine Learning
+- [EX04-01 汽車車型數值資料轉換]
+- [EX04-02 客戶基本資料編碼]
+- [EX04-03 客戶分群]
+- [EX04-04 加州房價]
+- [EX04-05 辨識鳶尾花]
+- [EX04-06 ET Today 新聞標題分類]
 ## 05 Web API
-- [EX05-01 Echo Bot]
-- [EX05-02 Ask Gemini]
-- [EX05-03 Reply Multi-type Messages]
-- [EX05-04 Reply Template Messages]
+- [EX05-01 Echo Bot](EX05_01.ipynb)
+- [EX05-02 Ask Gemini](EX05_02.ipynb)
+- [EX05-03 Reply Multi-type Messages](ex05_03.ipynb)
+- [EX05-04 Reply Template Messages](「EX05_04_ipynb」的副本.ipynb)
 
